@@ -6,7 +6,7 @@ Join now:
 @Torrent2Magnet
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/Fridaybot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deletetorrent2)
 
 
 Requirements:
