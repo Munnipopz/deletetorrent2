@@ -5,6 +5,10 @@ Join now:
 @Magnet2Torrent
 @Torrent2Magnet
 
+### The Easy Way
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/Fridaybot)
+
+
 Requirements:
 - aiotg>=0.7.1
 - libtorrent>=1.1.0
