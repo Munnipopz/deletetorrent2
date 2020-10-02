@@ -21,8 +21,8 @@ logger.addHandler(file_handler)
 logger.addHandler(stdout_handler)
 logger.setLevel(logging.INFO)
 
-t2m_bot = Bot(api_token='')
-m2t_bot = Bot(api_token='')
+t2m_bot = Bot(api_token='1278080596:AAEaKKjj2vFwd-7kAfHYgYpeuGGBybfk5Ns')
+m2t_bot = Bot(api_token='1278080596:AAEaKKjj2vFwd-7kAfHYgYpeuGGBybfk5Ns')
 
 proc_pool = ThreadPoolExecutor(15)
 
